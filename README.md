@@ -43,7 +43,7 @@ Before running this script, ensure that:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-jacking-simulation.git
+   git clone https://github.com/zpydir/crypto-jacking-simulation.git
    cd crypto-jacking-simulation
 
 2: Install the Requirements
